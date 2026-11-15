@@ -15,4 +15,6 @@ It is Imperative that you **Practice** while learning so that it'll stick. We're
 
 I'll plug in links to sites where we'll do CTFs to practice. 
 
-I also have a GC where I drop updated resources and connect with fellow learners, [you can join here.](t.me/beacon_6135)
+I also have a GC where I drop updated resources and connect with fellow learners: t.me/beacon_6135.
+
+Reach me on Twitter too: https://x.com/fac_eless10
