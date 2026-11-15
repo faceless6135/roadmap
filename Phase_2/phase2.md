@@ -1,0 +1,3 @@
+### You're gonna have to learn a little bit of programming...
+***
+We'll start with **Bash Scripting**,Then a little bit of **Javascript** to understand how webpages work, then **python**: a very powerful language in writing scripts, then finally; **Git**, **Github**, and **SQL**.
